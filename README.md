@@ -8,6 +8,7 @@ I am a learning AI development from scratch and documenting my progress every da
   coming soon...
 
 ######## Part1 30-Day Progress ########
+
 | Day | Topic | Status |
 | Day1 06/25/2026 | Enviroment Setup | done√ |
 
