@@ -1,9 +1,9 @@
 from dotenv import load_dotenv
 from openai import OpenAI
-# import os
+import os
 
 result=load_dotenv(
-    dotenv_path=r"..\Part1-30days\.env",
+    dotenv_path=r"Part1-30days\.env",
     encoding="utf-8"
             )
 
