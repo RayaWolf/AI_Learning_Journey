@@ -1,6 +1,6 @@
 ## Day 4 - A simple AI Chatbot
 ## Date:
- June 27, 2026
+ June 28, 2026
 ---
 ## What I did today
 - A simple AI CHATBOT

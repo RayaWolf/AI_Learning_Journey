@@ -1,6 +1,6 @@
 ## Day 2 - Git Basics
 ## Date:
- June 25, 2026
+ June 26, 2026
 ---
 ## What I did today
 - Installed Git
